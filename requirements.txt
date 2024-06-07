@@ -1,0 +1,2 @@
+customtkinter==0.1.0
+yara==4.0.5
